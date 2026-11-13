@@ -1,4 +1,3 @@
-# cookiestrackerapp
 # The Delusion Index
 
 **Video Walkthrough:** https://drive.google.com/file/d/1_w64AICZgBvMUJOIYYDs2rpZNW37Mk2U/view?usp=sharing 
@@ -15,7 +14,7 @@ I didn't want to do a normal habit tracker. I thought it'd be funny to take some
 
 [View my first prompt](tracker-docs/prompt-v1.md)
 
-![Version 1 Dashboard](tracker-docs/images/v1-dashboard.png)
+![Version 1 Dashboard](tracker-docs/v1-dashboard.png)
 
 ### Testing Version 1
 
@@ -39,15 +38,15 @@ The categories were fine but kind of boring, and the design looked more basic th
 
 ### Version 2 Form
 
-![Version 2 Form](tracker-docs/images/v2-form.png)
+![Version 2 Form](tracker-docs/v2-form.png)
 
 ### Version 2 Dashboard
 
-![Version 2 Dashboard](tracker-docs/images/v2-dashboard.png)
+![Version 2 Dashboard](tracker-docs/v2-dashboard.png)
 
 ### Cookie Storage
 
-![Version 2 Cookies](tracker-docs/images/v2-cookie-devtools.png)
+![Version 2 Cookies](tracker-docs/v2-cookie-devtools.png)
 
 ### Biggest Changes From Version 1 to Version 2
 
